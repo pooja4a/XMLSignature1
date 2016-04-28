@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SalaryDeposit>
+    <Organisation>
+        <Name>DDLab Inc</Name>
+        <AccountNo>SBC-12345789</AccountNo>
+    </Organisation>
+    <Employees>
+        <Emp>
+            <Name>John Abraham</Name>
+            <AccountNo>SB-001</AccountNo>
+            <Amount>1234</Amount>
+        </Emp>
+        <Emp>
+            <Name>Bipasha Basu</Name>
+            <AccountNo>SB-002</AccountNo>
+            <Amount>23345</Amount>
+        </Emp>
+        <Emp>
+            <Name>Vidya Balan</Name>
+            <AccountNo>SB-003</AccountNo>
+            <Amount>3465</Amount>
+        </Emp>
+        <Emp>
+            <Name>Debadatta Mishra</Name>
+            <AccountNo>SB-007</AccountNo>
+            <Amount>5789</Amount>
+        </Emp>
+        <Emp>
+            <Name>Priti Zinta</Name>
+            <AccountNo>SB-009</AccountNo>
+            <Amount>1234</Amount>
+        </Emp>
+    </Employees>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>bHS+6uf8KbJV4AGzoHNHLfnXvKM=</DigestValue></Reference></SignedInfo><SignatureValue>aUEMrCT5dzeOfSNaznzoT0If8WZ8KQcMNXDqtoeseonVk3NqOk9ctcxrf3QVX3wP6810DDRPdI6l
+e8ccG64Ge0HjkO+aYC5+c2L/qKBzwtSbl/olJEuFU2DVxBQO+K29TTUJfxpVzC9Zf2pvT+1NRj0f
+2/ofHujYZ01D6+YqI8c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>jfAd5uV38L36+lDZJrqfH9oLN86VJezXYfAeU+lrFoHlKAXVJLAi9hKvBHQRer4tPfdez6iSBKsl
+6IHkPnVRAKt0xU99uxi5QpymsWAX3qnBqHlw9Z70PwyZ+Xysfw4Q2tK2HtSgUOhMuaUcIf9sbHvf
+gbvcRPgxDZZqfIzDmDU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></SalaryDeposit>
